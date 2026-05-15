@@ -12,3 +12,6 @@
 
 ### 隐私协议
 [涌言 隐私协议](https://kartjim.cn/chatweave/)
+
+## 服务条款
+[Chatweave Privacy Policy](https://kartjim.cn/docs/chatweave/terms-of-service)

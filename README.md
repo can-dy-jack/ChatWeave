@@ -14,4 +14,7 @@ With Chatweave, you can:
 Whether you are a student, creator, developer, or professional, Chatweave becomes your daily AI workspace.
 
 ### Privacy Policy
-[Chatweave Privacy Policy](https://kartjim.cn/chatweave/)
+[Chatweave Privacy Policy](https://kartjim.cn/docs/chatweave/privacy-policy)
+
+## Terms of Service
+[Chatweave Privacy Policy](https://kartjim.cn/docs/chatweave/terms-of-service)
